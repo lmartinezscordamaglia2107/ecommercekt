@@ -13,6 +13,16 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$USER_HOME$/Desktop/MOBILE" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/Desktop/MOBILE" />
+            <option value="$USER_HOME$/Desktop/MOBILE/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
